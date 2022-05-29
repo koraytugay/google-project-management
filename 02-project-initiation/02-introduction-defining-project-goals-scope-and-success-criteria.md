@@ -67,3 +67,68 @@
 ## OKR Levels
 - Company level 
 - Project level
+
+# Determining a project's scope
+- Boundries of a project
+- Agreed upon understanding to what is included and what is excluded
+- Who will be using the project
+- Includes:
+  - Timeline
+  - Budget
+  - Resources
+- Poorly defined scope can change budget, timeline or the outcome of the project
+- How to scope of project?
+  - Talk to your stakeholders and sponsors
+  - Figure out what is and what is not inclued in the project
+- Where did the project come from?
+- Why is it needed?
+- What is the project expected to achieve?
+- What does the project sponsor have in mind?
+- Who approves the final results?
+
+## Monitoring and maintaining a project's scope
+- Tasks included in project plan: in-scope
+- Tasks excluded in project plan: out-of-scope
+## Scope Creep
+- Changes, growth and uncontrolled factors that affect a projet's scope at any point after the project begins
+  - i.e. when a project’s work starts to grow beyond what was originally agreed upon during the initiation phase
+- Scope creep can be internal or external
+  - Customer requests
+  - Environment shifts
+- Solutions
+  - Make project plans visible
+  - Get clarity on project requirements
+  - Set ground rules and expectations for stakeholder involvement
+  - Create a plan for dealing out-of-scope change requests
+  - Put your agreements in writing
+- Internal Scope Creep
+  - Comes from members of the team
+  - Suggestions on product or process improvements
+- Any time a member takes an unplanned task, more is lost than just the time spent working on the task
+
+## Managing changes to a project's scope
+- Goes in hand in hand with goal setting
+- Changing the goal can change the scope
+- Responsibility of a Project Manager is to deliver the project within the agreed scope
+- Triple Constrains Modal
+  - Scope
+  - Time
+  - Cost
+- Time refers to the project schedule and deadlines
+- Cost covers budget and resources
+- Both time and cost must be managed carefully alongside scope
+
+# Measuring a project's success
+## Launching and landing a project
+- Delivering the project to the client is called the project launch
+- Landing is when you actually measure the success of your project
+  - This is often overlooked in the initiation phase
+## Defining success criteria
+- Tells you whether or not the project was successful
+- Specific details of project goals, deliverables, requirements and expectations
+- The standards by which the project will be judged once it's been delivered to stakeholders
+- There is no standards
+  - Ask: How will I know when the project is a success? 
+  - Use your goals and metrics
+  - Get clarity from stakeholders on the project requirements and expectations
+  - Document all clarity so you can refer to it later
