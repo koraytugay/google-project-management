@@ -69,4 +69,13 @@
 - Champion your plan
 
 ## Creating a project plan: Tools and templates
+- Used to capture the scope and time it takes to complete a project
+- Lays out all of the activities and milestones that your team needs to achieve to successfully complete the project
+- Be sure to include this key information:
+  - Task ID numbers and task names
+  - Task durations
+  - Start and finish dates
+  - Who is responsible
+- Spreadsheets can be used for smaller projects
+
 ![project-plan](./projectplan.png)
