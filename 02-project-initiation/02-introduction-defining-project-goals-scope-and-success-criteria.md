@@ -90,7 +90,7 @@
 - Tasks included in project plan: in-scope
 - Tasks excluded in project plan: out-of-scope
 ## Scope Creep
-- Changes, growth and uncontrolled factors that affect a projet's scope at any point after the project begins
+- Changes, growth and uncontrolled factors that affect a project's scope at any point after the project begins
   - i.e. when a project’s work starts to grow beyond what was originally agreed upon during the initiation phase
 - Scope creep can be internal or external
   - Customer requests
