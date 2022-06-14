@@ -51,7 +51,7 @@
 ## Value of interpersonal skills
 - Soft skills means understanding the emotional needs of the team
 - Asking good questions
-  - Hoc much faster can you go if something happened
+  - How much faster can you go if something happened
   - What is stopping you from going faster
 
 # Utilizing tools to build a project plan
