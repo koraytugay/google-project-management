@@ -52,7 +52,7 @@
 ## Resources
 - Budget, people, materials
 
-## Project Chater
+## Project Charter
 - A document that clearly defines the project and its goals, and outlines what is needed to accomplish them
   - Allows you to get organized
   - Communicate details to others
