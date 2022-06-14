@@ -29,7 +29,7 @@
 # Using estimation to set project timelines
 - Time estimation vs effort estimation
   - Effort estimation: Active work needed to be done 
-  - Time estimatino: Total time that needed to consider a task to be done
+  - Time estimation: Total time that needed to consider a task to be done
 - Unrealistic effort estimates lead to project failures
   - Too much optimism may lead to risks
 - Teammates will have the most realistic understanding of the estimates
