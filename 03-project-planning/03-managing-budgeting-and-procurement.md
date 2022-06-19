@@ -85,3 +85,50 @@
   - When changes, growth and other factors affect the project's scope at any point after the project begins
 
 - Awarness of these challenges will help avoiding and overcoming them
+
+# Introduction to procurement
+## Understanding procurement
+- Procurement = purchase
+  - Obtaining all of the materials, services and supplies
+- Vendors included in procurement as well
+  - Vendor management includes researching and sourcing vendors
+  - Instead of materials, sourcing service or talent and managing it
+  - Researching and obtaining estimated costs
+- Managing vendors
+  - Sourcing
+  - Getting quites
+  - Deciding which is best
+  - Negotiating contracts
+  - Setting deadlines for vendors
+  - Evaluating performance
+  - Ensuring vendors are paid
+
+## The procurement process
+- Initiating
+- Selecting
+- Contract writing
+- Control
+- Completing
+
+### Agile procurement management
+- Collabrative with both the project team and the end supplier
+- Emphasis on the relationship between the parties
+- Project team plays a larger role picking vendors
+- Living contract
+
+### Traditional procurement management
+- Focus on standard contracts 
+- Project manager is responsible for end-to-end procuements
+- Contracts may feature lengthy and extensive documentation
+
+## Creating a Statement of Work
+- After selecting vendor
+- Document that lays out what vendor will provide
+  - Also what vendor needs
+- Included
+  - Purpose
+  - Scope / Major Project Activities
+  - Major milestones
+  - Estimated time
+  - Payment terms
+  - Deliverables
